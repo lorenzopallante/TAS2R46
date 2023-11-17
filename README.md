@@ -1,20 +1,48 @@
-# TAS2R46
+[![Virtuous button][Virtuous_image]][Virtuous link]
+
+[Virtuous_image]: https://virtuoush2020.com/wp-content/uploads/2021/02/V_logo_h.png
+[Virtuous link]: https://virtuoush2020.com/
+
 Repository containing the files regarding the study: 
 
 <b>Molecular Dynamics and Network-based Investigation of Human TAS2R46 Bitter Taste Receptor</b>
 
-<i>Marco Cannariato, Riccardo Fanunza, Lorenzo Pallante, and Marco A. Deriu </i>
+<i>Marco Cannariato<sup>1</sup>, Riccardo Fanunza<sup>1</sup>, Eric A. Zizzi<sup>1</sup>, Marcello Miceli<sup>1</sup>, Giacomo Di Benedetto<sup>2</sup>, Marco A. Deriu<sup>1</sup> and Lorenzo Pallante<sup>1*</sup>  </i>
 
-Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy
-<br/><br/>
-<br/><br/>
+<font size=2> <sup>1</sup>Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy
+<sup>2</sup>7HC S.r.l., 00198, Rome, Italy
+</font>
 
 The preprint of the article can be accessed at the link [insert]
 
-This repository contains:
+--------
 
-  1. Conformational_analysis.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&rarr; notebook containing the python codes used to perform the conformational analysis of TAS2R46
 
-  2. DYNET_analysis.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; notebook containing the python codes used to perform the dynamic network analysis of TAS2R46
+### Repo Structure
 
-  3. input_files/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr; directiory containing the input tpr files for the MD simulations of Holo, Trans, and Apo states 
+The repository is organized in the following folders:
+
+ * `MDP/`
+
+  This folder contains the MD simulation parameters in GROMACS MDP format used for minimization, stepwise equilibration and production MD simulation.
+
+ * `Topologies/`
+
+  This folder contains the molecular topologies for the of Holo, Trans, and Apo states (as obtained from CHARMM-GUI).
+
+ * `SimulationInput/`
+
+  This folder contains the input files for the production of MD simulations (after NVT+NPT equilibration; one tpr per replica).
+  
+ * `Notebooks/`
+  
+1. **Conformational_analysis.ipynb** 
+  Notebook containing the python codes used to perform the conformational analysis of TAS2R46
+2. **DYNET_analysis.ipynb**
+  Notebook containing the python codes used to perform the dynamic network analysis of TAS2R46
+
+------
+
+### Acknowledgements:
+
+The present work has been developed as part of the VIRTUOUS project, funded by the European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie-RISE Grant Agreement No. 872181 (https://www.virtuoush2020.com/).
