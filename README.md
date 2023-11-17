@@ -9,7 +9,7 @@ Repository containing the files regarding the study:
 
 <i>Marco Cannariato<sup>1</sup>, Riccardo Fanunza<sup>1</sup>, Eric A. Zizzi<sup>1</sup>, Marcello Miceli<sup>1</sup>, Giacomo Di Benedetto<sup>2</sup>, Marco A. Deriu<sup>1</sup> and Lorenzo Pallante<sup>1*</sup>  </i>
 
-<font size=2> <sup>1</sup>Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy
+<font size=2> <sup>1</sup>Polito<sup>BIO</sup>Med Lab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, 10129, Turin, Italy\
 <sup>2</sup>7HC S.r.l., 00198, Rome, Italy
 </font>
 
