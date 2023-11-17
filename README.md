@@ -36,9 +36,9 @@ The repository is organized in the following folders:
   
  * `Notebooks/`
   
-1. **Conformational_analysis.ipynb** 
+1. **Conformational_analysis.ipynb**\
   Notebook containing the python codes used to perform the conformational analysis of TAS2R46
-2. **DYNET_analysis.ipynb**
+2. **DYNET_analysis.ipynb**\
   Notebook containing the python codes used to perform the dynamic network analysis of TAS2R46
 
 ------
