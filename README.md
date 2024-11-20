@@ -13,7 +13,7 @@ Repository containing the files regarding the study:
 <sup>2</sup>7HC S.r.l., 00198, Rome, Italy
 </font>
 
-The preprint of the article can be accessed at this [link]([https://www.biorxiv.org/content/10.1101/2023.11.21.568072v2])
+The preprint of the article can be accessed at this [link](https://www.biorxiv.org/content/10.1101/2023.11.21.568072v2)
 
 --------
 
