@@ -5,7 +5,7 @@
 
 Repository containing the files regarding the study: 
 
-## Molecular Dynamics and Network-based Investigation of Human TAS2R46 Bitter Taste Receptor
+## Exploring TAS2R46 Biomechanics through Molecular Dynamics and Network Analysis
 
 <i>Marco Cannariato<sup>1</sup>, Riccardo Fanunza<sup>1</sup>, Eric A. Zizzi<sup>1</sup>, Marcello Miceli<sup>1</sup>, Giacomo Di Benedetto<sup>2</sup>, Marco A. Deriu<sup>1</sup> and Lorenzo Pallante<sup>1*</sup>  </i>
 
