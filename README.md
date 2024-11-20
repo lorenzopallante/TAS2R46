@@ -46,3 +46,5 @@ The repository is organized in the following folders:
 ### Acknowledgements:
 
 The present work has been developed as part of the VIRTUOUS project, funded by the European Union’s Horizon 2020 research and innovation program under the Marie Sklodowska-Curie-RISE Grant Agreement No. 872181 (https://www.virtuoush2020.com/).
+
+This work has been conducted as part of the GALATEA project, which is funded by the European Union’s Horizon Europe research and innovation program under the Marie Skłodowska-Curie Actions (HORIZON-MSCA-2023-SE-01-01, Grant Agreement No. 101183057).
